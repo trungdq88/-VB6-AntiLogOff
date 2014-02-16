@@ -6,7 +6,7 @@ See my article about this project: http://dinhquangtrung.net/blog/some-softwares
 Description
 -----------
 
-Prevent viruses to block you at logon screen. This program let you do things from your logon screen.
+Prevent viruses from block you at logon screen. This program let you do things from your logon screen.
 
 Images
 -----------
